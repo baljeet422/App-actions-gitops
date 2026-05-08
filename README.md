@@ -27,18 +27,6 @@ This repository also includes:
 
 ---
 
-## Features
-- User registration and authentication
-- Role-based access control for protected pages
-- View all users and individual user profiles
-- Update user profile details
-- Upload profile files from the web UI
-- Cache user lookup results with Memcached
-- Publish messages to RabbitMQ
-- Index user data in Elasticsearch and query by ID
-
----
-
 ## Steps
 - Fetch Code — GitHub Actions runner checks out the repository.
 - Maven Build — Compiles and packages the application.
